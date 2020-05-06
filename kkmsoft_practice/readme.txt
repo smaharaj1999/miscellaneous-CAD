@@ -1,0 +1,2 @@
+I found this PDF online that contains 24 drawings of basic parts, and I thought it would be good practice to improve my CAD skills by recreating a part from a drawing, and then trying to recreate the original drawing.
+I'm putting it into this repository to help me learn how to use Git as well. 
